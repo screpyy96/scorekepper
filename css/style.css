@@ -6,6 +6,7 @@ body {
     text-align: center;
     background: rgba(44, 94, 141, 0.63);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: 100vh
 }
 
 .container {
@@ -45,11 +46,4 @@ button {
     text-align: center;
     line-height: 3;
     border-radius: 20px;
-}
-
-button:hover {
-    background: rgb(76, 105, 76);
-    color: white;
-    font-size: 20px;
-
 }
